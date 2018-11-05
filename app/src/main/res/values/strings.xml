@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RESTfulQuiz</string>
+    <string name="choose_quiz">Choose a Quiz</string>
+</resources>
